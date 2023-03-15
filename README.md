@@ -1,5 +1,5 @@
 [![MasterHead](https://www.dreamstime.com/banner-theme-business-girl-working-computer-topic-successful-young-woman-works-office-financial-growth-image184136911)
-<h1 align="center">Hi 👋, I'm Ghorse Coaching Classes</h1>
+<h1 align="center">Hi 👋, I'm AYUSHI GHORSE</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://tenor.com/en-GB/view/programming-gif-25868426" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
